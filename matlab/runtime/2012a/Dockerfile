@@ -1,4 +1,4 @@
-# Download and install Matlab Compiler Runtime v8.1 (2013a)
+# Download and install Matlab Compiler Runtime v7.17 (2012a)
 #
 # This docker file will configure an environment into which the Matlab compiler
 # runtime will be installed and in which stand-alone matlab routines (such as
